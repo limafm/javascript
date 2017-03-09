@@ -1,0 +1,9 @@
+# Array splice()
+# insert/remove from a position with shifting
+Ex:
+  var fruits = ["Banana", "Orange", "Apple", "Mango"];
+  fruits.splice(2, 0, "Lemon", "Kiwi");
+
+https://www.w3schools.com/jsref/jsref_splice.asp
+---------------------------------------------------
+
