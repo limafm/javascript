@@ -7,3 +7,9 @@ Ex:
 https://www.w3schools.com/jsref/jsref_splice.asp
 ---------------------------------------------------
 
+EC6 tips
+
+# swap variables content
+let a = 1;
+leb b = 2;
+[a,b] = [b,a]
